@@ -1,0 +1,11 @@
+{
+  "name": "react-hello",
+  "version": "1.0.0",
+  "description": "Example with webpack, React, ES6 and JSX. Using https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaim-Leib Halbert and Tamizhvendan S",
+  "license": "ISC"
+}
